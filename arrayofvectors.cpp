@@ -14,7 +14,7 @@ void printVec(vector <int > &v)
 int main()
 {
 	//Arrays of vectors
-	int N; // This is my size of vector
+	int N; // This is size of vector
 	cin>>N;
 	vector<int > v[N]; // Array of Vector size N
 	for(int i=0;i<N;++i)
