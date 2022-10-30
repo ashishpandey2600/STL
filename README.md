@@ -10,3 +10,4 @@
 9. Lower Bound.
 10. GCD & LCM
 11. Balanced Parenthesis.
+12. Queue.
